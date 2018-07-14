@@ -10,4 +10,10 @@
 __pycache__
 
 # Miscellaneous
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+/env/
+>>>>>>> Add test and release stages to Dockerfile
